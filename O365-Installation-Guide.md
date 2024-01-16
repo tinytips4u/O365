@@ -74,4 +74,4 @@ Execute the Office Deployment Tool. Say Yes to the UAC prompt, accept the EULA, 
 
 Now open a command prompt terminal, as administrator, and navigate to the Office folder on the desktop using the Change Directory command. This is important, else the next step will give an error.
 
-Now run the command ==.\setup.exe /configure OfficeConfig.xml==
+Now run the command `.\setup.exe /configure OfficeConfig.xml`
