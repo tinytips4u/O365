@@ -14,17 +14,17 @@ _**Architecture:**_ Let it be the default (64-bit).
 
 _**Office Suites:**_ Microsoft 365 apps for enterprise.
 
-_**Visio:**_ Visio is a diagramming and vector graphics application. If you use it, choose any from the list "EXCEPT Visio Plan 2". You can skip it if you don't need it.
+_**Visio:**_ Visio is a diagramming and vector graphics application. If you use it, **"Choose any from the list EXCEPT Visio Plan 2"**. You can **skip** it if you don't need it.
 
-_**Project:**_ Project is software for project management. If you use it, choose any "EXCEPT Project Online Desktop Client". Else you can skip it.
+_**Project:**_ Project is software for project management. If you use it, **"Choose any EXCEPT Project Online Desktop Client"**. Else, you can **skip** it.
 
 _**Additional products:**_ You can skip it if you don't use any language other than English. If you do, select Language Pack.
 
 
 ### Update channel:
-_**Select the update channel:**_ You can stay on Current Channel, but if you wish to get access to new features earlier, select Current Channel (Preview).
+_**Select the update channel:**_ You can stay on **Current Channel**, but if you wish to get access to new features earlier, select Current Channel (Preview).
 
-_**Select the version:**_ Choose the Latest option.
+_**Select the version:**_ Choose the **Latest** option.
 
 ### Apps:
 
@@ -32,11 +32,11 @@ You can keep the default settings in this section. Or, as per your need, you may
 
 ### Features:
 
-Toggle off the "Background service for Microsoft Search in Bing".
+Toggle **OFF** the "Background service for Microsoft Search in Bing".
 
 ### Languages:
 
-_**Select primary language:**_ Select your language, or select the Match Operating System option.
+_**Select primary language:**_ Select your language, or select the **Match Operating System** option.
 
 ### Installation:
 
@@ -47,3 +47,21 @@ _**Installation options:**_ Leave the default settings as it is. If you want the
 _**Update and upgrade options:**_ Keep all settings as it is. But, toggle **ON** Automatically check for updates.
 
 _**Upgrade options:**_ Keep all settings as it is. But, toggle **ON** Automatically upgrade to the selected architecture.
+
+### Licensing and Activation:
+
+_**Automatically accept the EULA:**_ Toggle it **ON**
+Rest Settings keep as it is.
+
+### General:
+
+Leave this setting. No need to provide any details.
+
+### Application preferences:
+
+Leave this setting. No need to provide any details.
+
+On the upper right of the page, press the Export button. You will be prompted for the Default File Format; select Keep Current Settings, then OK. In Export configuration to XML prompt, tick the license agreement checkbox and name your configuration file. For this guide, we will name it OfficeConfig. Then click on Export. An XML file named OfficeConfig.xml will be downloaded to your device.
+
+
+
