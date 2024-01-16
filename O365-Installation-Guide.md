@@ -80,4 +80,4 @@ Restart your device when installation is done. Installation is complete.
 
 ## Step 3: Activation
 
-You will get a prompt for activating the product, as soon as you open one of the office applications. There you can click "I have a product key" and activate your product. [Or]
+You will get a prompt for activating the product, as soon as you open one of the office applications. There you can click "I have a product key" and activate your product. `[Or](https://github.com/tinytips4u/O365/blob/main/Or.md)`
