@@ -6,27 +6,44 @@ In this article, we will see how to install Microsoft Office 365 using the Offic
 
 ## Step 1: Configuring the installation using the Office Customization tool
 
-Access the official website for the office customization tool [here](https://config.office.com/deploymentsettings).<br>
+Access the official website for the office customization tool _[here](https://config.office.com/deploymentsettings)_.<br>
 Choose the deployment settings as mentioned below:<br>
 
 ### Products:
-_**Architecture:**_ Let it be the default (64-bit)
+_**Architecture:**_ Let it be the default (64-bit).
 
-**Office Suites:** Microsoft 365 apps for enterprise
+_**Office Suites:**_ Microsoft 365 apps for enterprise.
 
-**Visio:** Visio is a diagramming and vector graphics application. If you use it, choose any from the list EXCEPT Visio Plan 2. You can skip it if you don't need it.
+_**Visio:**_ Visio is a diagramming and vector graphics application. If you use it, choose any from the list "EXCEPT Visio Plan 2". You can skip it if you don't need it.
 
-**Project:** Project is software for project management. If you use it, choose any EXCEPT Project Online Desktop Client. Else you can skip it.
+_**Project:**_ Project is software for project management. If you use it, choose any "EXCEPT Project Online Desktop Client". Else you can skip it.
 
-**Additional products:** You can skip it if you don't use any language other than English. If you do, select Language Pack.
+_**Additional products:**_ You can skip it if you don't use any language other than English. If you do, select Language Pack.
 
 
 ### Update channel:
-**Select the update channel:** You can stay on Current Channel, but if you wish to get access to new features earlier, select Current Channel (Preview)
+_**Select the update channel:**_ You can stay on Current Channel, but if you wish to get access to new features earlier, select Current Channel (Preview).
 
-**Select the version:** Choose the Latest option
+_**Select the version:**_ Choose the Latest option.
 
 ### Apps:
 
-You can keep the default settings in this section. Or, as per your need, you may toggle on or off the mentioned apps. Note that OneDrive (Groove) and Skype for Business have been deprecated, so use OneDrive Desktop and Teams as replacements instead
+You can keep the default settings in this section. Or, as per your need, you may toggle on or off the mentioned apps. Note that OneDrive (Groove) and Skype for Business have been deprecated, so use OneDrive Desktop and Teams as replacements instead.
 
+### Features:
+
+Toggle off the "Background service for Microsoft Search in Bing".
+
+### Languages:
+
+_**Select primary language:**_ Select your language, or select the Match Operating System option.
+
+### Installation:
+
+_**Installation options:**_ Leave the default settings as it is. If you want the installation to be done in the background without prompts then, toggle off the "Show installation to user" option.
+
+### Update and upgrade:
+
+_**Update and upgrade options:**_ Keep all settings as it is. But, toggle **ON** Automatically check for updates.
+
+_**Upgrade options:**_ Keep all settings as it is. But, toggle **ON** Automatically upgrade to the selected architecture.
