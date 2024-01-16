@@ -67,6 +67,11 @@ On the upper right of the page, press the Export button. You will be prompted fo
 ## Step 2: Installation Using the Office Deployment Tool
 
 Go to the desktop and create a folder. You may provide any name to the folder. We will name it Office in this guide. Then copy the downloaded OfficeConfig.xml file, mentioned in Step 1, to the Office folder on the desktop.<br>
+
 Download the Office Deployment Tool from _[here](https://www.microsoft.com/en-us/download/details.aspx?id=49117)_. For simplicity, place the Office Deployment Tool in the Office folder on the desktop.<br>
-Execute the Office Deployment Tool. Say Yes to the UAC prompt, accept the EULA, and select the folder Office on your desktop. Some files will be extracted in that folder. Along with some other configuration files, there will be a setup.exe file.
-Now open a command prompt terminal, as administrator, and navigate to the Office folder on the desktop.
+
+Execute the Office Deployment Tool. Say Yes to the UAC prompt, accept the EULA, and select the folder Office on your desktop. Some files will be extracted in that folder. Along with some other configuration files, there will be a setup.exe file.<br>
+
+Now open a command prompt terminal, as administrator, and navigate to the Office folder on the desktop using the Change Directory command. This is important, else the next step will give error.
+
+Now run the command `#RRGGBB`.\setup.exe /configure OfficeConfig.xml
