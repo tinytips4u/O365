@@ -74,4 +74,10 @@ Execute the Office Deployment Tool. Say Yes to the UAC prompt, accept the EULA, 
 
 Now open a command prompt terminal, as administrator, and navigate to the Office folder on the desktop using the Change Directory command. This is important, else the next step will give an error.
 
-Now run the command `.\setup.exe /configure OfficeConfig.xml`
+Now run the command `.\setup.exe /configure OfficeConfig.xml`. Copy and paste from here. Press enter on your keyboard. Say Yes to the UAC prompt if one appears, and wait until the installation finishes.
+
+Restart your device when installation is done. Installation is complete.
+
+## Step 3: Activation
+
+You will get a prompt for activating the product, as soon as you open one of the office applications. There you can click "I have a product key" and activate your product. [Or]
