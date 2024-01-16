@@ -10,7 +10,7 @@ Access the official website for the office customization tool [here](https://con
 Choose the deployment settings as mentioned below:<br>
 
 ### Products:
-**Architecture:** Let it be the default (64-bit)
+_**Architecture:**_ Let it be the default (64-bit)
 
 **Office Suites:** Microsoft 365 apps for enterprise
 
