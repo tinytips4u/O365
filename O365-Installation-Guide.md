@@ -9,8 +9,15 @@ In this article, we will see how to install Microsoft Office 365 using the Offic
 Access the official website for the office customization tool [here](https://config.office.com/deploymentsettings).<br>
 Choose the deployment settings as mentioned below:<br>
 
+### Products:
 **Architecture:** Let it be the default (64-bit)
 
 **Office Suites:** Microsoft 365 apps for enterprise
 
-**Visio:** Visio is a diagramming and vector graphics application. If you use it then choose any from the list EXCEPT Visio Plan 2. You can skip it if you dont need it.
+**Visio:** Visio is a diagramming and vector graphics application. If you use it, choose any from the list EXCEPT Visio Plan 2. You can skip it if you don't need it.
+
+**Project:** Project is software for project management. If you use it, choose any EXCEPT Project Online Desktop Client. Else you can skip it.
+
+**Additional products:** You can skip it if you don't use any other language than English. If you do, select Language pack.
+
+
