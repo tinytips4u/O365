@@ -72,6 +72,6 @@ Download the Office Deployment Tool from _[here](https://www.microsoft.com/en-us
 
 Execute the Office Deployment Tool. Say Yes to the UAC prompt, accept the EULA, and select the folder Office on your desktop. Some files will be extracted in that folder. Along with some other configuration files, there will be a setup.exe file.<br>
 
-Now open a command prompt terminal, as administrator, and navigate to the Office folder on the desktop using the Change Directory command. This is important, else the next step will give error.
+Now open a command prompt terminal, as administrator, and navigate to the Office folder on the desktop using the Change Directory command. This is important, else the next step will give an error.
 
-Now run the command <mark>.\setup.exe /configure OfficeConfig.xml</mark>
+Now run the command ==.\setup.exe /configure OfficeConfig.xml==
