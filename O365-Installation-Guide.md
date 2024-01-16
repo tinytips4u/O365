@@ -61,7 +61,12 @@ Leave this setting. No need to provide any details.
 
 Leave this setting. No need to provide any details.
 
-On the upper right of the page, press the Export button. You will be prompted for the Default File Format; select Keep Current Settings, then OK. In Export configuration to XML prompt, tick the license agreement checkbox and name your configuration file. For this guide, we will name it OfficeConfig. Then click on Export. An XML file named OfficeConfig.xml will be downloaded to your device.
+On the upper right of the page, press the Export button. You will be prompted for the Default File Format; select Keep Current Settings, then OK. In the Export Configuration to XML prompt, tick the license agreement checkbox and name your configuration file. For this guide, we will name it OfficeConfig. Then click on Export. An XML file named OfficeConfig.xml will be downloaded to your device.
 
 
+## Step 2: Installation Using the Office Deployment Tool
 
+Go to the desktop and create a folder. You may provide any name to the folder. We will name it Office in this guide. Then copy the downloaded OfficeConfig.xml file, mentioned in Step 1, to the Office folder on the desktop.<br>
+Download the Office Deployment Tool from _[here](https://www.microsoft.com/en-us/download/details.aspx?id=49117)_. For simplicity, place the Office Deployment Tool in the Office folder on the desktop.<br>
+Execute the Office Deployment Tool. Say Yes to the UAC prompt, accept the EULA, and select the folder Office on your desktop. Some files will be extracted in that folder. Along with some other configuration files, there will be a setup.exe file.
+Now open a command prompt terminal, as administrator, and navigate to the Office folder on the desktop.
