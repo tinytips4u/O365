@@ -6,6 +6,11 @@ In this article, we will see how to install Microsoft Office 365 using the Offic
 
 ## Step 1: Configuring the installation using the Office Customization tool
 
-Access the official website for the Office customization tool [here](https://config.office.com/deploymentsettings)
-Choose the deployment settings as mentioned bellow:
+Access the official website for the office customization tool [here](https://config.office.com/deploymentsettings).<br>
+Choose the deployment settings as mentioned below:<br><br>
 
+**Architecture:** Let it be the default (64-bit)
+
+**Office Suites:** Microsoft 365 apps for enterprise
+
+**Visio:** Visio is a diagramming and vector graphics application. If you use it then choose any from the list EXCEPT Visio Plan 2. You can skip it if you dont need it.
