@@ -18,6 +18,15 @@ Choose the deployment settings as mentioned below:<br>
 
 **Project:** Project is software for project management. If you use it, choose any EXCEPT Project Online Desktop Client. Else you can skip it.
 
-**Additional products:** You can skip it if you don't use any other language than English. If you do, select Language pack.
+**Additional products:** You can skip it if you don't use any language other than English. If you do, select Language Pack.
 
+
+### Update channel:
+**Select the update channel:** You can stay on Current Channel, but if you wish to get access to new features earlier, select Current Channel (Preview)
+
+**Select the version:** Choose the Latest option
+
+### Apps:
+
+You can keep the default settings in this section. Or, as per your need, you may toggle on or off the mentioned apps. Note that OneDrive (Groove) and Skype for Business have been deprecated, so use OneDrive Desktop and Teams as replacements instead
 
